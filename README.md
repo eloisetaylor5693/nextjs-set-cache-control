@@ -1,3 +1,9 @@
+**Repo created for this bug: https://github.com/vercel/next.js/issues/62294**
+
+_______
+
+
+
 This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues).
 
 ## Getting Started
